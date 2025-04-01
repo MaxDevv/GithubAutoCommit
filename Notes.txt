@@ -1,8 +1,10 @@
 ==== Project Idea ====
     - Describe your current project idea
+    - Github auto commit, loops through all subfolders in my code folder and commits all with > 3 changes
 
 ==== Workflow/UI ====
     - Simplify your project to a workflow/UI path
+    - No front end UI, designed to be automated by curl
 
 ==== To-Do List ====
     - 1.) Eat.

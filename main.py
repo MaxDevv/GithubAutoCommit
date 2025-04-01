@@ -16,7 +16,7 @@ import os, time, subprocess
 # ===== Configuration =====
 class Config:
     """Global settings (variables instead of constants)."""
-    changeCriterion = 5 # Amount of changes needed before repo is commited and pushed
+    changeCriterion = 3 # Amount of changes needed before repo is commited and pushed
     mainCodeFolder = os.environ["CODE_FOLDER"]
     personalAccessToken = os.environ["GITHUB_PERSONAL_ACCESS_TOKEN"]
     verbose = True
