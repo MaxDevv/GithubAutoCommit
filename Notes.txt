@@ -1,0 +1,9 @@
+==== Project Idea ====
+    - Describe your current project idea
+
+==== Workflow/UI ====
+    - Simplify your project to a workflow/UI path
+
+==== To-Do List ====
+    - 1.) Eat.
+    - 2.) Sleep.
